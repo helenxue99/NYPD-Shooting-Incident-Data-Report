@@ -4,12 +4,12 @@ This is a R Markdown Reproducible report for NYPD Shooting Incident Data (Histor
 
 It includes the following reports:
 
--NewYork Shooting Incident Victim Age Report
+-New York Shooting Incident Victim Age Report
 
--NewYork Shooting Incident Victim Sex Report
+-New York Shooting Incident Victim Sex Report
 
--NewYork Shooting Incident Victim Race Report
+-New York Shooting Incident Victim Race Report
 
--NewYork Shooting Incident Location Report
+-New York Shooting Incident Location Report
 
--NewYork Shooting Incident Hour Report
+-New York Shooting Incident Hour Report
